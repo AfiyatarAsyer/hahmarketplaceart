@@ -31,7 +31,7 @@ export default function Home() {
 
         <p className="mt-6 text-lg max-w-prose text-muted-foreground">Wlcome to hahmarketplace. Every asset on your platform is verified by our team to ensure our higest quality standards.</p>
         <div className="flex flex-col sm:flex-row gap-4 mt-6">
-          <Link href="/products" className={buttonVariants()}>Browse Trading</Link>
+          <Link href="/products" className={buttonVariants()}>Browse Tranding</Link>
           <Button variant="ghost">Our quality promise &rarr;</Button>
         </div>
     </div>
